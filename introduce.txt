@@ -1,0 +1,5 @@
+bài 14: Cú pháp tạo ra một liên kết
+
+thẻ <a> (anchor): <a href="...">content</a>
+
+thẻ chỉ hiển thị content để người dùng click vào và chuyển sang link liên kết.
